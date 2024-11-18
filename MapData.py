@@ -1,7 +1,7 @@
 import bpy
 
 # Hardcoded file path
-file_path = 'C:\\M5221.asc'
+file_path = 'file\path\M5221.asc'
 
 # Read ASC file and extract height data
 with open(file_path, 'r') as file:
